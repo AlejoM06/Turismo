@@ -1,0 +1,13 @@
+C:\Proyect1\Turismo\Turismo\Turismo.Shared\bin\Debug\net7.0\Turismo.Shared.deps.json
+C:\Proyect1\Turismo\Turismo\Turismo.Shared\bin\Debug\net7.0\Turismo.Shared.dll
+C:\Proyect1\Turismo\Turismo\Turismo.Shared\bin\Debug\net7.0\Turismo.Shared.pdb
+C:\Proyect1\Turismo\Turismo\Turismo.Shared\obj\Debug\net7.0\Turismo.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyect1\Turismo\Turismo\Turismo.Shared\obj\Debug\net7.0\Turismo.Shared.AssemblyInfoInputs.cache
+C:\Proyect1\Turismo\Turismo\Turismo.Shared\obj\Debug\net7.0\Turismo.Shared.AssemblyInfo.cs
+C:\Proyect1\Turismo\Turismo\Turismo.Shared\obj\Debug\net7.0\Turismo.Shared.csproj.CoreCompileInputs.cache
+C:\Proyect1\Turismo\Turismo\Turismo.Shared\obj\Debug\net7.0\Turismo.Shared.dll
+C:\Proyect1\Turismo\Turismo\Turismo.Shared\obj\Debug\net7.0\refint\Turismo.Shared.dll
+C:\Proyect1\Turismo\Turismo\Turismo.Shared\obj\Debug\net7.0\Turismo.Shared.pdb
+C:\Proyect1\Turismo\Turismo\Turismo.Shared\obj\Debug\net7.0\ref\Turismo.Shared.dll
+C:\Proyect1\Turismo\Turismo\Turismo.Shared\bin\Debug\net7.0\Turismo.Shared.runtimeconfig.json
+C:\Proyect1\Turismo\Turismo\Turismo.Shared\obj\Debug\net7.0\Turismo.Shared.genruntimeconfig.cache

@@ -475,6 +475,16 @@
         "build": {
           "buildTransitive/net6.0/System.Text.Json.targets": {}
         }
+      },
+      "Turismo.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Turismo.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Turismo.Shared.dll": {}
+        }
       }
     },
     "net7.0/browser-wasm": {
@@ -944,6 +954,16 @@
         },
         "build": {
           "buildTransitive/net6.0/System.Text.Json.targets": {}
+        }
+      },
+      "Turismo.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Turismo.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Turismo.Shared.dll": {}
         }
       }
     }
@@ -1792,28 +1812,34 @@
         "system.text.json.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "Turismo.Shared/1.0.0": {
+      "type": "project",
+      "path": "../Turismo.Shared/Turismo.Shared.csproj",
+      "msbuildProject": "../Turismo.Shared/Turismo.Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
       "Microsoft.AspNetCore.Components.WebAssembly >= 7.0.11",
-      "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 7.0.11"
+      "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 7.0.11",
+      "Turismo.Shared >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\CORE I5\\.nuget\\packages\\": {}
+    "C:\\Users\\alejo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Proyect\\Turismo\\Turismo\\Turismo.WEB\\Turismo.WEB.csproj",
+      "projectUniqueName": "C:\\Proyect1\\Turismo\\Turismo\\Turismo.WEB\\Turismo.WEB.csproj",
       "projectName": "Turismo.WEB",
-      "projectPath": "C:\\Proyect\\Turismo\\Turismo\\Turismo.WEB\\Turismo.WEB.csproj",
-      "packagesPath": "C:\\Users\\CORE I5\\.nuget\\packages\\",
-      "outputPath": "C:\\Proyect\\Turismo\\Turismo\\Turismo.WEB\\obj\\",
+      "projectPath": "C:\\Proyect1\\Turismo\\Turismo\\Turismo.WEB\\Turismo.WEB.csproj",
+      "packagesPath": "C:\\Users\\alejo\\.nuget\\packages\\",
+      "outputPath": "C:\\Proyect1\\Turismo\\Turismo\\Turismo.WEB\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\CORE I5\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\alejo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1826,7 +1852,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Proyect1\\Turismo\\Turismo\\Turismo.Shared\\Turismo.Shared.csproj": {
+              "projectPath": "C:\\Proyect1\\Turismo\\Turismo\\Turismo.Shared\\Turismo.Shared.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
