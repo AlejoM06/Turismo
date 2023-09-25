@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Turismo.API.Data;
+using Turismo.Shared.Entities;
 
 namespace Turismo.API.Controllers
 {
@@ -34,11 +35,41 @@ namespace Turismo.API.Controllers
 
             if(city ==  null)
             {
-                return NotFound();
+                return NotFound();//404
             }
 
-            return  Ok(city);
+            return  Ok(city);//200
 
+        }
+        [HttpPost]
+
+        public async Task<ActionResult> Post(City city)
+        {
+            _context.Add(city);
+            await _context.SaveChangesAsync();
+            return Ok(city);
+        }
+        [HttpPut]
+
+        public async Task<ActionResult> Put(City city)
+        {
+            _context.Update(city);
+            await _context.SaveChangesAsync();
+            return Ok(city);
+        }
+
+        [HttpDelete("{id:int}")]
+
+        public async Task<ActionResult> Delete(int id)
+        {
+            var filaafectada = await _context.Cities.Where(c => c.Id == id).ExecuteDeleteAsync();
+
+            if (filaafectada==0)
+            {
+                return NotFound();//404
+            }
+
+            return NoContent();//204
         }
     }
 }
