@@ -198,15 +198,15 @@
       "mscorlib.dll": "sha256-X+o60j6cZnlI2vFFjdH81yYTAxx13\/wqnNSWTKbDsyw=",
       "netstandard.dll": "sha256-Cr6slBs\/R2v2t\/vecFDHbQHakbEhar0adYu0YemwiXI=",
       "System.Private.CoreLib.dll": "sha256-dDw5nzGJhW1jOjGfSJcs\/Mi4KQ+DZygXnoK+vJ+jHyk=",
-      "Turismo.Shared.dll": "sha256-N7Lm2H\/+132csNdjWPZY5Ga1Avx4hWLvTZeDzuYP9q4=",
-      "Turismo.WEB.dll": "sha256-jFOzsmh1FXFqee3njpN0p2DaBfJOHZiZa1aiahJaun8="
+      "Turismo.Shared.dll": "sha256-Pneby\/vVwZTBp4GBpxZbLhhqcRYSSiqXAFMlMi3g0VU=",
+      "Turismo.WEB.dll": "sha256-mYDN9uqwC4QumphdVda3IbTVbU2sNkdt6u0l5d3hzaw="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "Turismo.Shared.pdb": "sha256-wJJscuEQRo4JR4FgsNhUaYt7EWt3wqf94EXPJJeZHQw=",
-      "Turismo.WEB.pdb": "sha256-kqc5piXmigHWaclb1qZYLNRQJbegGNjfTqCIEWpemno="
+      "Turismo.Shared.pdb": "sha256-mLucyCPTauzdg\/TqeTjCaMIU0fOUBx4KQlIQGbLIWyw=",
+      "Turismo.WEB.pdb": "sha256-DwflY1rN0A9h2vLN8uYYXJWUE3vCRspVPvuespi\/KKU="
     },
     "runtime": {
       "dotnet.7.0.11.5ny18yr89y.js": "sha256-RtIVigdAD1mUvR4pxoKyD8kcQgw4INP81v+PVSqkeQY=",
