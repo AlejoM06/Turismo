@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Proyect\\Turismo\\Turismo\\Turismo.API\\Turismo.API.csproj": {}
+    "C:\\Proyect1\\Turismo\\Turismo\\Turismo.API\\Turismo.API.csproj": {}
   },
   "projects": {
-    "C:\\Proyect\\Turismo\\Turismo\\Turismo.API\\Turismo.API.csproj": {
+    "C:\\Proyect1\\Turismo\\Turismo\\Turismo.API\\Turismo.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Proyect\\Turismo\\Turismo\\Turismo.API\\Turismo.API.csproj",
+        "projectUniqueName": "C:\\Proyect1\\Turismo\\Turismo\\Turismo.API\\Turismo.API.csproj",
         "projectName": "Turismo.API",
-        "projectPath": "C:\\Proyect\\Turismo\\Turismo\\Turismo.API\\Turismo.API.csproj",
-        "packagesPath": "C:\\Users\\CORE I5\\.nuget\\packages\\",
-        "outputPath": "C:\\Proyect\\Turismo\\Turismo\\Turismo.API\\obj\\",
+        "projectPath": "C:\\Proyect1\\Turismo\\Turismo\\Turismo.API\\Turismo.API.csproj",
+        "packagesPath": "C:\\Users\\alejo\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyect1\\Turismo\\Turismo\\Turismo.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\CORE I5\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alejo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

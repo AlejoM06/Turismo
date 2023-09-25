@@ -1801,19 +1801,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\CORE I5\\.nuget\\packages\\": {}
+    "C:\\Users\\alejo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Proyect\\Turismo\\Turismo\\Turismo.WEB\\Turismo.WEB.csproj",
+      "projectUniqueName": "C:\\Proyect1\\Turismo\\Turismo\\Turismo.WEB\\Turismo.WEB.csproj",
       "projectName": "Turismo.WEB",
-      "projectPath": "C:\\Proyect\\Turismo\\Turismo\\Turismo.WEB\\Turismo.WEB.csproj",
-      "packagesPath": "C:\\Users\\CORE I5\\.nuget\\packages\\",
-      "outputPath": "C:\\Proyect\\Turismo\\Turismo\\Turismo.WEB\\obj\\",
+      "projectPath": "C:\\Proyect1\\Turismo\\Turismo\\Turismo.WEB\\Turismo.WEB.csproj",
+      "packagesPath": "C:\\Users\\alejo\\.nuget\\packages\\",
+      "outputPath": "C:\\Proyect1\\Turismo\\Turismo\\Turismo.WEB\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\CORE I5\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\alejo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
