@@ -1,5 +1,6 @@
 ﻿using Turismo.Shared.Entities;
 using Microsoft.EntityFrameworkCore;
+using Turismo.API.Controllers;
 
 namespace Turismo.API.Data
 {
@@ -13,6 +14,11 @@ namespace Turismo.API.Data
         
 
         public DbSet <City> Cities   { get; set; } 
+        public DbSet <Celebracion> Celebraciones { get; set; }
+        public DbSet <Place> Places { get; set; }
+        public DbSet <People> Peoples { get; set; }
+        public DbSet <Hotel> Hotels { get; set; }
+        public DbSet <Vehicle> Vehicles { get; set; }   
 
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
